@@ -1,5 +1,5 @@
 {
-    "name": "Portable Loud Speaker",
+    "name": "BookReaderKIDS microbit",
     "description": "",
     "dependencies": {
         "core": "*",
