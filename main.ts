@@ -5,27 +5,35 @@ input.onButtonPressed(Button.B, function () {
 function Story () {
     if (story_num == 1) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 2) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 3) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 4) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 5) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 6) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 7) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     } else if (story_num == 8) {
         basic.showString("Hello!")
+        basic.clearScreen()
         basic.showString("Hello!")
     }
 }
